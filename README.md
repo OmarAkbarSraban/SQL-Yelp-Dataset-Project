@@ -32,7 +32,6 @@ This assignment is divided into two parts:
 - `Part1_Yelp_Dataset_Profiling_and_Understanding.sql`: SQL queries and answers for Part 1.
 - `Part2_Inferences_and_Analysis.sql`: SQL queries and answers for Part 2.
 - `Completed_Solution.pdf`: A PDF file containing the completed assignment with all SQL queries and results.
-- `Dataset/`: A directory containing the necessary dataset files (if applicable).
 
 ## Part 1: Yelp Dataset Profiling and Understanding
 
