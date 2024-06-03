@@ -28,7 +28,7 @@ This assignment is divided into two parts:
 ## Files in the Repository
 
 - `README.md`: This readme file.
-- `Assignment_Instructions.pdf`: Detailed instructions for the assignment.
+- `Assignment_Instructions.txt`: Detailed instructions for the assignment.
 - `Part1_Yelp_Dataset_Profiling_and_Understanding.sql`: SQL queries and answers for Part 1.
 - `Part2_Inferences_and_Analysis.sql`: SQL queries and answers for Part 2.
 - `Completed_Solution.pdf`: A PDF file containing the completed assignment with all SQL queries and results.
