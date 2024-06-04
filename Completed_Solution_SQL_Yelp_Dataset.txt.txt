@@ -4,7 +4,7 @@ Project submitted by Omar Akbar Sraban
 
 Part 1: Yelp Dataset Profiling and Understanding
 
---To profile the data and find the total number of records for each of the tables, you can execute the provided SQL queries:
+1. To profile the data and find the total number of records for each of the tables, you can execute the provided SQL queries:
 	
 i. Attribute table = 10000
 SELECT COUNT(*) AS total FROM attribute;
