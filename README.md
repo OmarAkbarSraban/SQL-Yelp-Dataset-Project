@@ -29,6 +29,7 @@ This assignment is divided into two parts:
 
 - `README.md`: This readme file.
 - `Assignment_Instructions.txt`: Detailed instructions for the assignment.
+- `Yelp Dataset ER Diagram`: Yelp Dataset entity relationship diagram
 - `Completed_Solution_SQL_Yelp_Dataset.txt`: A text file containing the completed assignment with all SQL queries and results.
 
 ## Part 1: Yelp Dataset Profiling and Understanding
