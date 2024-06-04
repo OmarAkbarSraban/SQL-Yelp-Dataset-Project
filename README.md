@@ -29,7 +29,7 @@ This assignment is divided into two parts:
 
 - `README.md`: This readme file.
 - `Assignment_Instructions.txt`: Detailed instructions for the assignment.
-- `Completed_Solution.txt`: A text file containing the completed assignment with all SQL queries and results.
+- `Completed_Solution_SQL_Yelp_Dataset.txt`: A text file containing the completed assignment with all SQL queries and results.
 
 ## Part 1: Yelp Dataset Profiling and Understanding
 
@@ -59,10 +59,6 @@ In Part 2, I chose to analyze businesses in Las Vegas under the "Shopping" categ
 
 For a broader analysis, I conducted an investigation to determine which business categories boasted the highest average review counts and star ratings from customers. This analysis also considered the functional status (open or closed) of these businesses. To ensure statistical significance, I filtered the results to only include categories with more than 10 businesses.
 
-### Data Required
-
-I used data on business categories, star ratings, review counts, and business operational status. This data was essential to understand trends and patterns in customer reviews and business performance based on their operational status.
-
 ## Usage
 
 1. **Clone the repository**:
@@ -71,7 +67,7 @@ I used data on business categories, star ratings, review counts, and business op
     cd SQL-Yelp-Dataset-Project
     ```
 2. **View the completed solution**:
-    - Open `Completed_Solution.txt` to see the combined results of the assignment.
+    - Open `Completed_Solution_SQL_Yelp_Dataset.txt` to see the combined results of the assignment.
 
 ## Conclusion
 
