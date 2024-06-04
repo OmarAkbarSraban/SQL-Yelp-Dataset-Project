@@ -29,9 +29,7 @@ This assignment is divided into two parts:
 
 - `README.md`: This readme file.
 - `Assignment_Instructions.txt`: Detailed instructions for the assignment.
-- `Part1_Yelp_Dataset_Profiling_and_Understanding.sql`: SQL queries and answers for Part 1.
-- `Part2_Inferences_and_Analysis.sql`: SQL queries and answers for Part 2.
-- `Completed_Solution.pdf`: A PDF file containing the completed assignment with all SQL queries and results.
+- `Completed_Solution.txt`: A text file containing the completed assignment with all SQL queries and results.
 
 ## Part 1: Yelp Dataset Profiling and Understanding
 
@@ -59,7 +57,7 @@ In Part 2, I chose to analyze businesses in Las Vegas under the "Shopping" categ
 
 ### Analysis Type Chosen
 
-I conducted an analysis to identify which category of businesses has the highest average reviews and star ratings, considering the operational status of these businesses. I filtered for categories with more than 10 businesses for statistical significance.
+For a broader analysis, I conducted an investigation to determine which business categories boasted the highest average review counts and star ratings from customers. This analysis also considered the functional status (open or closed) of these businesses. To ensure statistical significance, I filtered the results to only include categories with more than 10 businesses.
 
 ### Data Required
 
@@ -72,13 +70,8 @@ I used data on business categories, star ratings, review counts, and business op
     git clone https://github.com/OmarAkbarSraban/SQL-Yelp-Dataset-Project.git
     cd SQL-Yelp-Dataset-Project
     ```
-
-2. **View the SQL files**:
-    - Open `Part1_Yelp_Dataset_Profiling_and_Understanding.sql` to see the SQL queries and results for Part 1.
-    - Open `Part2_Inferences_and_Analysis.sql` to see the SQL queries and results for Part 2.
-
-3. **View the completed solution**:
-    - Open `Completed_Solution.pdf` to see the combined results of the assignment.
+2. **View the completed solution**:
+    - Open `Completed_Solution.txt` to see the combined results of the assignment.
 
 ## Conclusion
 
